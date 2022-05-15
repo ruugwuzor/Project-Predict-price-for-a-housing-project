@@ -1,1 +1,0 @@
-# Project-Predict-price-for-a-housing-project
